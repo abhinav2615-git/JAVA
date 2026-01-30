@@ -20,3 +20,4 @@ public class Time {
         t.show();              
 }
 }
+// Add Time class with input and show methods
