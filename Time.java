@@ -15,9 +15,8 @@ public class Time {
     }
 
     public static void main(String[] args) {
-        Time t = new Time();  
-        t.input(10, 45, 30);   
-        t.show();              
+        Time t = new Time();
+        t.input(10, 45, 30);
+        t.show();
+    }
 }
-}
-// Add Time class with input and show methods
